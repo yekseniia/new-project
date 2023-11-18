@@ -1,5 +1,5 @@
 # new-project
-# new-project
+
 
 Цей репозиторій створений для проекту "new-project".
 
